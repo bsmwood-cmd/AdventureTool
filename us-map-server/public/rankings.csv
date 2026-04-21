@@ -1,21 +1,21 @@
-Location,Ranking
-Little Lakes Valley,0
-Bishop Pass,10
-North Fork Lone Pine Creek,0
-Whitney Portal,0
-Sabrina Lake,5
-South Lake,0
-North Lake,1
-Rock Creek,1
-Convict Lake,3
-McGee Creek,0
-Big Pine Creek,0
-Glacier Lodge,5
-Onion Valley,0
-Horseshoe Meadow,0
-Cottonwood Lakes,7
-Agnew Meadows,10
-Devils Postpile,9
-Reds Meadow,7
-Thousand Island Lake,0
-Rock Creek Lake,0
+Location,Ranking,Description,Difficulty 
+Little Lakes Valley,0,Scenic valley with alpine lakes,Strenuous
+Bishop Pass,10,High mountain pass offering access to the John Muir Wilderness.,Moderate
+North Fork Lone Pine Creek,0,Trailhead near Lone Pine,Easy
+Whitney Portal,0,Main access to Mt. Whitney,Strenuous
+Sabrina Lake,5,Beautiful alpine lake in the Sierra,Moderate
+South Lake,0,Gateway to the Bishop Creek area,Easy
+North Lake,1,Access point to Piute Pass and the John Muir Wilderness.,Strenuous
+Rock Creek,1,Trailhead for Rock Creek Lake and surrounding peaks.,Moderate
+Convict Lake,3,Famous for its striking views of Mt. Morrison.,Easy
+McGee Creek,0,Leads to the Hoover Wilderness and alpine meadows.,Strenuous
+Big Pine Creek,0,Access to the Palisades and other high-country trails.,Moderate
+Glacier Lodge,5,Near the Sabrina Basin,Easy
+Onion Valley,0,High-altitude trailhead with access to Kearsarge Pass.,Strenuous
+Horseshoe Meadow,0,Starting point for climbs of Mt. Whitney via the Mountaineer's Route.,Moderate
+Cottonwood Lakes,7,Beautiful lakes and meadows in the Golden Trout Wilderness.,Easy
+Agnew Meadows,10,Access to the Ansel Adams Wilderness and Yosemite border.,Strenuous
+Devils Postpile,9,Famous for its columnar basalt formations.,Moderate
+Reds Meadow,7,Gateway to the Middle Fork of the San Joaquin River.,Easy
+Thousand Island Lake,0,Iconic lake with granite islands,Strenuous
+Rock Creek Lake,0,High-elevation lake with access to the Hoover Wilderness.,Moderate
